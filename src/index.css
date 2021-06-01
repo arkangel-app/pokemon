@@ -1,0 +1,7 @@
+.ant-card.poke-card {
+  max-width: 150px;
+  padding: 20px 5px;
+}
+p.capitalize {
+  text-transform: capitalize;
+}
